@@ -1,7 +1,7 @@
 
 # 🌍 App Flutter - Lista de Países do Mundo
 
-O intuito do aplicativo é exibir uma lista de países consumindo dados de uma API pública. Ao selecionar um país, o usuário é direcionado para uma tela com detalhes como bandeira, capital, população, região e sub-região.
+O intuito do aplicativo é exibir uma lista de países a partir do consumo de dados de uma API pública. Ao selecionar um país, o usuário é direcionado para uma tela com detalhes como bandeira, capital, população, região e sub-região.
 
 ## 📱 Funcionalidades
 
@@ -9,7 +9,7 @@ O intuito do aplicativo é exibir uma lista de países consumindo dados de uma A
 - Tela de detalhes com informações expandidas.
 - Carregamento assíncrono de dados.
 - Tratamento de estados de carregamento e erro.
-- Interface limpa e responsiva com uso de `SliverAppBar`.
+- Interface limpa com uso de `SliverAppBar`.
 
 ## 🧱 Estrutura do Projeto
 
@@ -28,7 +28,7 @@ lib/
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/jemappellesam/paisesDoMundo
    cd seu-repositorio
    ```
 
