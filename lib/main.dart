@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'country_list_screen.dart';
+import 'package:paises/screens/country_list_screen.dart';
 import 'package:paises/services/pais_service.dart';
 
 void main() => runApp(MyApp());

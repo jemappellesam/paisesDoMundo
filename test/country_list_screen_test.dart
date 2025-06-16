@@ -5,7 +5,7 @@ import 'package:paises/models/country_model.dart';
 import 'package:paises/services/pais_service.dart';
 import 'package:flutter/material.dart';
 import 'country_list_screen_test.mocks.dart';
-import 'package:paises/country_list_screen.dart';
+import 'package:paises/screens/country_list_screen.dart';
 import 'package:network_image_mock/network_image_mock.dart';
 import 'package:paises/screens/country_detail_screen.dart';
 
