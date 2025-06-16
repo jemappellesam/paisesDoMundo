@@ -29,7 +29,7 @@ lib/
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/jemappellesam/paisesDoMundo
-   cd seu-repositorio
+   cd paisesDoMundo
    ```
 
 2. **Instale as dependências:**
